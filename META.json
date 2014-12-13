@@ -4,7 +4,7 @@
       "Ingy döt Net <ingy@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.021, CPAN::Meta::Converter version 2.142690",
+   "generated_by" : "Dist::Zilla version 5.025, CPAN::Meta::Converter version 2.143240",
    "license" : [
       "perl_5"
    ],
@@ -50,6 +50,6 @@
          "web" : "https://github.com/ingydotnet/acme-math-xs-pm"
       }
    },
-   "version" : "0.0.1"
+   "version" : "0.0.2"
 }
 
